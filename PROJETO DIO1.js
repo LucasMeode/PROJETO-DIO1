@@ -1,5 +1,5 @@
 let nomeHeroi = "IronMan"
-let xpHeroi = 3000;
+let xpHeroi = 3001;
 
 let nivelHeroi;
 
